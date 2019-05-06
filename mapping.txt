@@ -1,0 +1,44 @@
+lane_directions_mapper = {'parallel':0,'vertical':1}
+
+lane_style_mapper = {'solid':0,'dashed':1}
+
+lane_type_mapper = {'road curb':0,'single white':1,'double white':2,'single yellow':3,'double yellow':4,
+              'crosswalk':5,'single other':6,'double other':7}
+
+time_mapper = {'daytime':0,'night':1,'dawn/dusk':2}
+
+scene_mapper = {'highway':0,'city street':1,'residential':2,'parking lot':3,
+               'gas stations':4,'tunnel':5}
+
+weather_mapper = {'clear':0,'snowy':1,'rainy':2,'overcast':3,'cloudy':4,'partly cloudy':5
+                 ,'foggy':6,'undefined':7}
+
+traf_light_color_mapper = {'red':0,'green':1,'yellow':2}
+
+NAs were filled as:
+
+all NaNs in area parameters = 0
+
+all NaNs in distance parameters = 2000
+
+all NaNs in angle parameters = 180
+
+
+all NaNs in drivable area(direct and alternative) = 0
+
+all NaNs in lane parameters(direction,style and type) = 100
+
+all NaNs in traffic lights = 100
+
+all NaNs in area time,scene,weather = 100
+
+
+
+
+
+
+
+
+
+
+
