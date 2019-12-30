@@ -27,7 +27,8 @@ Using the csv file and the outcome variable, we used various machine learning mo
 
 ## What you will need to run this:
 
-* Python 3 interpreter
+* Python 3 
+* Scikit-Learn
 * Pandas package
 
 ## How to run:
@@ -50,7 +51,7 @@ The dataset, the images, the labels, the research paper are all from UC Berkeley
 
 Claire Savard, CU Boulder
 
-Vandana Sridhar, CU Boulder
+[Vandana Sridhar, CU Boulder] (https://github.com/vandana28)
 
   
   
