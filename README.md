@@ -51,7 +51,7 @@ The dataset, the images, the labels, the research paper are all from UC Berkeley
 
 Claire Savard, CU Boulder
 
-[Vandana Sridhar, CU Boulder] (https://github.com/vandana28)
+[Vandana Sridhar, CU Boulder](https://github.com/vandana28)
 
   
   
